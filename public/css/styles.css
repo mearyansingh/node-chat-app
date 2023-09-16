@@ -1,0 +1,10 @@
+@media (min-width: 992px) {
+   .main .main-container {
+      max-width: calc(100% - 17.5rem);
+   }
+}
+
+.msg-form-wrapper {
+   margin: 0 -1rem;
+   background-color: aliceblue;
+}
